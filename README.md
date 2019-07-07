@@ -11,9 +11,10 @@
 </p>
 <h2 align="center">晚饭加鸡腿的个人博客</h2>
 
-<h3 align="left">2019</h3>
+<h2 align="left">2019</h2>
 
 <h4 align="left">javascript</h4>
+
 <h4 align="left">vue</h4>
 <h4 align="left">node</h4>
 <h4 align="left">linux</h4>
