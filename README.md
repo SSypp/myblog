@@ -13,10 +13,10 @@
 
 <h2 align="left">2019年</h2>
 
-<h3 align="left">javascript</h3>
-1.[JSON.parse 三种实现方式](https://github.com/youngwind/blog/issues/115)
-2.[JSON.parse 三种实现方式](https://github.com/youngwind/blog/issues/115)
-<h3 align="left">vue</h3>
-<h3 align="left">node</h3>
-<h3 align="left">linux</h3>
+### javascript
+1. [JSON.parse 三种实现方式](https://github.com/youngwind/blog/issues/115)
+2. [JSON.parse 三种实现方式](https://github.com/youngwind/blog/issues/115)
+### vue
+### node
+### linux
 
