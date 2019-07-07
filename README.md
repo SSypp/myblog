@@ -33,7 +33,7 @@
 
 ### php
 
-1. [php基础](https://github.com/SSypp/myblog/blob/master/)
+1. [php基础](https://github.com/SSypp/myblog/blob/master/php/php%E5%9F%BA%E7%A1%80.md)
 
 ### linux
 
