@@ -13,3 +13,8 @@
 
 <h3 align="left">2019</h3>
 
+<h4 align="left">javascript</h4>
+<h4 align="left">vue</h4>
+<h4 align="left">node</h4>
+<h4 align="left">linux</h4>
+
