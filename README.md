@@ -9,5 +9,5 @@
   <a href="#"><img src="https://img.shields.io/badge/%E5%89%8D%E7%AB%AF-node-%230575E6.svg" alt="node" title="node"></a>
   <a href="#"><img src="https://img.shields.io/badge/%E5%88%A9%E5%99%A8-linux-%237303c0.svg" alt="linux" title="linux"></a>
 </p>
-<h2 align="center">晚饭加鸡腿</h2>
+<h2 align="center">晚饭加鸡腿的个人博客</h2>
 
