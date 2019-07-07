@@ -1,6 +1,6 @@
 <p align="center">
     <a href="#" rel="noopener noreferrer">
-        <img width="100" src="http://w.wfjjt.top/image/blog/images.png" alt="myblog" style="border-radius:50%">
+        <img width="200" src="http://w.wfjjt.top/image/blog/images.png" alt="myblog" style="border-radius:50%">
     </a>
     <p align="center" style="font-weight:800">晚饭加鸡腿</p>
 </p>
