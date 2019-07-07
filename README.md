@@ -8,6 +8,7 @@
   <a href="#"><img src="https://img.shields.io/badge/%E5%89%8D%E7%AB%AF-vue-%2300F260.svg" alt="vue" title="vue"></a>
   <a href="#"><img src="https://img.shields.io/badge/%E5%89%8D%E7%AB%AF-node-%230575E6.svg" alt="node" title="node"></a>
   <a href="#"><img src="https://img.shields.io/badge/%E5%88%A9%E5%99%A8-linux-%237303c0.svg" alt="linux" title="linux"></a>
+  <a href="#"><img src="https://img.shields.io/badge/%E6%9E%81%E5%AE%A2%E5%B7%A5%E5%85%B7-tools-%23000.svg" alt="tools" title="极客工具"></a>
 </p>
 <h2 align="center">晚饭加鸡腿的个人博客</h2>
 
